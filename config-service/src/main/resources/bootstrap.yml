@@ -13,5 +13,5 @@ spring:
           default-label: "master"
   security:
     user:
-      username: root
+      name: root
       password: s3cr3t
